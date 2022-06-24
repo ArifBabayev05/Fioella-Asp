@@ -30,6 +30,8 @@ namespace Floria.Controllers
                 .ToListAsync();
             List<Category> categories = await _context.Categories.Where(n => !n.IsDeleted).ToListAsync();
             List<Expert> experts = await _context.Experts.Where(n => !n.IsDeleted)
+                .Include(n=>n.ExpertPositions)
+                .ThenInclude(n=>n.Position)
                 .Include(n => n.Image)
                 .ToListAsync();
 

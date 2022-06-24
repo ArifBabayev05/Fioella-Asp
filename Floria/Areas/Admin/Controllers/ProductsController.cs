@@ -118,6 +118,16 @@ namespace Floria.Areas.Admin.Controllers
 
         public async Task<IActionResult> Delete(int? id)
         {
+            var data = await ValidateProduct(id);
+            
+            data.IsDeleted = true;
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        private async Task<Product> ValidateProduct(int? id)
+        {
             if (id is null)
             {
                 throw new ArgumentNullException("Id");
@@ -127,10 +137,7 @@ namespace Floria.Areas.Admin.Controllers
             {
                 throw new NullReferenceException();
             }
-            data.IsDeleted = true;
-            await _context.SaveChangesAsync();
-
-            return RedirectToAction(nameof(Index));
+            return data;
         }
      
      
