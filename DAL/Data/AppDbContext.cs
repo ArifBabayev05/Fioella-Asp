@@ -15,5 +15,7 @@ namespace DAL.Data
         public DbSet<Category> Categories { get; set; }
         public DbSet<Image> Images { get; set; }
         public DbSet<Expert> Experts { get; set; }
+        public DbSet<Position> Positions { get; set; }
+        public DbSet<ExpertPosition> ExpertPositions  { get; set; }
     }
 }

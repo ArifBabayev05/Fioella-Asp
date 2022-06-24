@@ -1,10 +1,11 @@
 ﻿using DAL.Base;
+using DAL.Entity;
 using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace DAL.Models
 {
-    public class Product : BaseEntity
+    public class Product : BaseEntity, IEntity
     {
         [Required, MaxLength(255, ErrorMessage = "Name must be less than 255 chars")]
         public string Name { get; set; }
