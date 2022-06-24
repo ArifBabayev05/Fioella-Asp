@@ -1,0 +1,30 @@
+C:/Users/heybe/source/repos/Floria/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.AssemblyReference.cache
+C:/Users/heybe/source/repos/Floria/DAL/obj/Debug/netcoreapp3.1/DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/heybe/source/repos/Floria/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfoInputs.cache
+C:/Users/heybe/source/repos/Floria/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfo.cs
+C:/Users/heybe/source/repos/Floria/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.CoreCompileInputs.cache
+C:/Users/heybe/source/repos/Floria/DAL/bin/Debug/netcoreapp3.1/DAL.deps.json
+C:/Users/heybe/source/repos/Floria/DAL/bin/Debug/netcoreapp3.1/DAL.dll
+C:/Users/heybe/source/repos/Floria/DAL/bin/Debug/netcoreapp3.1/DAL.pdb
+C:/Users/heybe/source/repos/Floria/DAL/obj/Debug/netcoreapp3.1/DAL.dll
+C:/Users/heybe/source/repos/Floria/DAL/obj/Debug/netcoreapp3.1/DAL.pdb
+/Users/babayev_/Desktop/FrontToBack-Relation 2/DAL/bin/Debug/netcoreapp3.1/DAL.deps.json
+/Users/babayev_/Desktop/FrontToBack-Relation 2/DAL/bin/Debug/netcoreapp3.1/DAL.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/DAL/bin/Debug/netcoreapp3.1/DAL.pdb
+/Users/babayev_/Desktop/FrontToBack-Relation 2/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.AssemblyReference.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/DAL/obj/Debug/netcoreapp3.1/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babayev_/Desktop/FrontToBack-Relation 2/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfoInputs.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfo.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.CoreCompileInputs.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/DAL/obj/Debug/netcoreapp3.1/DAL.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/DAL/obj/Debug/netcoreapp3.1/DAL.pdb
+/Users/babayev_/Desktop/FrontToBack-Finish/DAL/bin/Debug/netcoreapp3.1/DAL.deps.json
+/Users/babayev_/Desktop/FrontToBack-Finish/DAL/bin/Debug/netcoreapp3.1/DAL.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/DAL/bin/Debug/netcoreapp3.1/DAL.pdb
+/Users/babayev_/Desktop/FrontToBack-Finish/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.AssemblyReference.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/DAL/obj/Debug/netcoreapp3.1/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babayev_/Desktop/FrontToBack-Finish/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfoInputs.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfo.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.CoreCompileInputs.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/DAL/obj/Debug/netcoreapp3.1/DAL.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/DAL/obj/Debug/netcoreapp3.1/DAL.pdb

@@ -1,0 +1,68 @@
+﻿<Properties StartupConfiguration="{A539C562-AD97-41DE-8C42-23CB0F6EFDA0}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Floria PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Floria/Areas/Admin/Views/Products/Index.cshtml">
+    <Files>
+      <File FileName="Floria/wwwroot/assets/js/script.js" Line="72" Column="1" />
+      <File FileName="Floria/Controllers/ProductsController.cs" Line="51" Column="10" />
+      <File FileName="Floria/Views/Products/Index.cshtml" Line="13" Column="24" />
+      <File FileName="Floria/Views/Shared/_ProductPartial.cshtml" Line="3" Column="19" />
+      <File FileName="Floria/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Floria/ViewModels/HomeVM.cs" Line="1" Column="1" />
+      <File FileName="Floria/Views/_ViewImports.cshtml" Line="8" Column="1" />
+      <File FileName="Floria/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Floria/Areas/Admin/Views/Dashboard/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Floria/Areas/Admin/Views/Shared/_AdminLayout.cshtml" Line="58" Column="55" />
+      <File FileName="Floria/Areas/Admin/Controllers/ProductsController.cs" Line="27" Column="71" />
+      <File FileName="Floria/Areas/Admin/Views/Products/Index.cshtml" Line="43" Column="38" />
+      <File FileName="Floria/Areas/Admin/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Floria/Areas/Admin/Controllers/DashboardController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Floria" expanded="True">
+            <Node name="DAL" expanded="True">
+              <Node name="Base" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="Floria" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Dashboard" expanded="True" />
+                    <Node name="Products" expanded="True" />
+                    <Node name="Shared" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Products" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="assets" expanded="True">
+                  <Node name="js" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

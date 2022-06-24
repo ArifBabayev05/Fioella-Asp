@@ -1,0 +1,244 @@
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.csproj.AssemblyReference.cache
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.AssemblyInfoInputs.cache
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.AssemblyInfo.cs
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.csproj.CoreCompileInputs.cache
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.RazorAssemblyInfo.cache
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.RazorAssemblyInfo.cs
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/staticwebassets/Floria.StaticWebAssets.Manifest.cache
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.TagHelpers.input.cache
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.TagHelpers.output.cache
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.RazorCoreGenerate.cache
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.RazorTargetAssemblyInfo.cache
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.RazorTargetAssemblyInfo.cs
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.dll
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.pdb
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Floria.exe
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Floria.deps.json
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Floria.runtimeconfig.json
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Floria.runtimeconfig.dev.json
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Floria.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Floria.pdb
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Floria.Views.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Floria.Views.pdb
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.Views.pdb
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.genruntimeconfig.cache
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Floria.csproj.CopyComplete
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/DAL.dll
+C:/Users/heybe/source/repos/Floria/Floria/bin/Debug/netcoreapp3.1/DAL.pdb
+C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Floria
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Floria.deps.json
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Floria.runtimeconfig.json
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Floria.runtimeconfig.dev.json
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Floria.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Floria.pdb
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Floria.Views.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Floria.Views.pdb
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/DAL.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/bin/Debug/netcoreapp3.1/DAL.pdb
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.csproj.AssemblyReference.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.AssemblyInfoInputs.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.AssemblyInfo.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.csproj.CoreCompileInputs.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.MvcApplicationPartsAssemblyInfo.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.RazorAssemblyInfo.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.RazorAssemblyInfo.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/staticwebassets/Floria.StaticWebAssets.Manifest.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.TagHelpers.input.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.TagHelpers.output.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.RazorCoreGenerate.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.RazorTargetAssemblyInfo.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.RazorTargetAssemblyInfo.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.Views.pdb
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.csproj.CopyComplete
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.dll
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.pdb
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Floria.genruntimeconfig.cache
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Dashboard/Index.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_AdminLayout.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Views/Products/Index.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ProductPartial.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Products/Index.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Products/Create.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Relation 2/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Products/Details.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Floria
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Floria.deps.json
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Floria.runtimeconfig.json
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Floria.runtimeconfig.dev.json
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Floria.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Floria.pdb
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Floria.Views.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Floria.Views.pdb
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/DAL.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/bin/Debug/netcoreapp3.1/DAL.pdb
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.csproj.AssemblyReference.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.AssemblyInfoInputs.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.AssemblyInfo.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.csproj.CoreCompileInputs.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.MvcApplicationPartsAssemblyInfo.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.RazorAssemblyInfo.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.RazorAssemblyInfo.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/staticwebassets/Floria.StaticWebAssets.Manifest.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.TagHelpers.input.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.TagHelpers.output.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.RazorCoreGenerate.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Dashboard/Index.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Products/Create.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Products/Details.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Products/Index.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_AdminLayout.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Views/Products/Index.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ProductPartial.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.RazorTargetAssemblyInfo.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.RazorTargetAssemblyInfo.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.Views.pdb
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.csproj.CopyComplete
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.dll
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.pdb
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.genruntimeconfig.cache
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Products/Update.cshtml.g.cs

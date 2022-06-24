@@ -1,0 +1,64 @@
+﻿@model Product
+
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Products</h4>
+            <div class="d-flex justify-content-between my-3">
+                <a asp-area="admin" asp-action="index" asp-controller="products" class="btn btn-secondary">Go Back</a>
+
+            </div>
+
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                Name
+                            </th>
+                            <th>
+                                Price
+                            </th>
+                            <th>
+                                Count
+                            </th>
+                            <th>
+                                Category
+                            </th>
+                            <th>
+                                Settings
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="py-1">
+                                <img src="~/assets/img/@Model.Image.Name" alt="image" />
+                            </td>
+                            <td>
+                                @Model.Name
+                            </td>
+                            <td>
+                                $@Model.Price
+                            </td>
+                            <td>
+                                @Model.Count
+                            </td>
+                            <td>
+                                @Model.Category.Name
+                            </td>
+                            <td>
+                                <a asp-area="admin" asp-action="update" asp-controller="products" asp-route-id="@Model.Id" class="btn btn-warning">Update</a>
+                                <a asp-area="admin" asp-action="delete" asp-controller="products" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
