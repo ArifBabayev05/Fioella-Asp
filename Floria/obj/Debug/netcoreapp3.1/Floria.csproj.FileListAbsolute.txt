@@ -242,3 +242,6 @@ C:/Users/heybe/source/repos/Floria/Floria/obj/Debug/netcoreapp3.1/Razor/Views/_V
 /Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.pdb
 /Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Floria.genruntimeconfig.cache
 /Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Products/Update.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Positions/Index.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Positions/Create.cshtml.g.cs
+/Users/babayev_/Desktop/FrontToBack-Finish/Floria/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Positions/Update.cshtml.g.cs

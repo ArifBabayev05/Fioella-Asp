@@ -1,0 +1,47 @@
+﻿@model List<Position>
+
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Positions </h4>
+            <div class="d-flex justify-content-between my-3">
+                <a asp-area="admin" asp-action="index" asp-controller="dashboard" class="btn btn-secondary">Go Back</a>
+                <a asp-area="admin" asp-action="create" asp-controller="positions" class="btn btn-success">Create</a>
+            </div>
+
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                          
+                            <th>
+                                Name
+                            </th>
+                         
+                            <th>
+                                Settings
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var position in Model)
+                        {
+                            <tr>
+                              
+                                <td>
+                                    @position.Name
+                                </td>
+                                <td>
+
+                                    <a asp-area="admin" asp-action="update" asp-controller="positions" asp-route-id="@position.Id" class="btn btn-warning">Update</a>
+                                    <a asp-area="admin" asp-action="delete" asp-controller="positions" asp-route-id="@position.Id" class="btn btn-danger">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
