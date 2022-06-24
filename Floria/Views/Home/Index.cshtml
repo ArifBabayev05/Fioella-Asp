@@ -163,18 +163,25 @@
                                 <h6>@expert.FullName</h6>
 
                                 @*=========================FIX IT========================*@
-                              
+
                                 @*=========================FIX IT========================*@
 
                                 @for (int i = 0; i < expert.ExpertPositions.Count; i++)
                                 {
-                                    <span class="text-black-50"> @expert.ExpertPositions[i].Position.Name </span>
+                                    if (i != expert.ExpertPositions.Count - 1)
+                                    {
+                                        <span class="text-black-50"> @expert.ExpertPositions[i].Position.Name, </span>
+                                    }
+                                    else
+                                    {
+                                        <span class="text-black-50"> @expert.ExpertPositions[i].Position.Name </span>
+                                    }
                                 }
 
                                 @*@foreach (ExpertPosition ep in expert.ExpertPositions)
-                                   {
-                                    <span class="text-black-50"> @ep.Position.Name</span>
-                                   }*@
+        {
+         <span class="text-black-50"> @ep.Position.Name</span>
+        }*@
 
                             </div>
                         </div>

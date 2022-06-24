@@ -16,6 +16,7 @@
     <Folder Include="wwwroot\Areas\Admin\" />
     <Folder Include="Views\Products\" />
     <Folder Include="Areas\Admin\Views\Products\" />
+    <Folder Include="Areas\Admin\Views\Positions\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -45,6 +46,7 @@
     <None Remove="Views\Products\" />
     <None Remove="Newtonsoft.Json" />
     <None Remove="Areas\Admin\Views\Products\" />
+    <None Remove="Areas\Admin\Views\Position\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\Areas\" />
