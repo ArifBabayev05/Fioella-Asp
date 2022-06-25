@@ -17,6 +17,7 @@
     <Folder Include="Views\Products\" />
     <Folder Include="Areas\Admin\Views\Products\" />
     <Folder Include="Areas\Admin\Views\Positions\" />
+    <Folder Include="Areas\Admin\Views\Experts\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -34,6 +35,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj" />
+    <ProjectReference Include="..\Business\Business.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 
   <ItemGroup>
@@ -47,6 +51,7 @@
     <None Remove="Newtonsoft.Json" />
     <None Remove="Areas\Admin\Views\Products\" />
     <None Remove="Areas\Admin\Views\Position\" />
+    <None Remove="Areas\Admin\Views\Experts\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\Areas\" />

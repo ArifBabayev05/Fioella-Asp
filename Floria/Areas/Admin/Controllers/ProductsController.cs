@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Business.Repositories;
 using DAL.Data;
 using DAL.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -14,45 +15,60 @@ namespace Floria.Areas.Admin.Controllers
     [Area("Admin")]
     public class ProductsController : Controller
     {
-        private readonly AppDbContext _context;
 
-        public ProductsController(AppDbContext context)
+        private readonly ProductRepository _productRepository;
+        private readonly CategoryRepository _categoryRepository;
+
+        public ProductsController(ProductRepository productRepository, CategoryRepository categoryRepository)
         {
-            _context = context;
+            _categoryRepository = categoryRepository;
+            _productRepository = productRepository;
         }
 
         public async Task<IActionResult> Index()
         {
-            var data = await _context.Products.Where(n => !n.IsDeleted)
-                                              .Include(n => n.Image)
-                                              .Include(n => n.Category)
-                                              .OrderByDescending(n=>n.CreatedDate)
-                                              .ToListAsync();
-            return View(data);
+            List<Product> products;
+
+            try
+            {
+                products =await _productRepository.GetAll();
+            }
+            catch(NullReferenceException ex)
+            {
+                throw ex;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            return View(products);
         }
+
         public async Task<IActionResult> Details(int? id)
         {
-            if(id is null)
+            Product product;
+            try
             {
-                throw new ArgumentNullException("Id");
+                product= await _productRepository.Get(id);
             }
-            var data = await _context.Products.Where(n => n.Id == id)
-                                              .Include(n => n.Image)
-                                              .Include(n => n.Category)
-                                              .FirstOrDefaultAsync();
-
-            if(data is null)
+            catch (NullReferenceException ex)
             {
-                throw new NullReferenceException("Data Could Not Be Found!");
+                throw ex;
             }
-            return View(data);
+            catch (ArgumentNullException ex)
+            {
+                throw ex;
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+            return View(product);
         }
-
-
 
         public async Task<IActionResult> Create()
         {
-            var categories = await _context.Categories.Where(n => !n.IsDeleted).ToListAsync();
+            var categories = await _categoryRepository.GetAll();
             ViewData["categories"] = categories;
             return View();
         }
@@ -61,17 +77,17 @@ namespace Floria.Areas.Admin.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create( Product product)
         {
-            var categories = await _context.Categories.Where(n => !n.IsDeleted).ToListAsync();
+            var categories = await _categoryRepository.GetAll(); 
             ViewData["categories"] = categories;
             if (!ModelState.IsValid)
             {
                 return View();
             }
-            product.CreatedDate = DateTime.Now;
+            await _productRepository.Create(product);
 
-            await _context.Products.AddAsync(product);
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
+
+           
         }
 
         public async Task<IActionResult> Update(int? id)
@@ -81,12 +97,12 @@ namespace Floria.Areas.Admin.Controllers
             {
                 throw new ArgumentNullException("Id");
             }
-            var data = await _context.Products.Where(n => !n.IsDeleted && n.Id == id).FirstOrDefaultAsync();
+            var data = await _categoryRepository.Get(id);
             if (data is null)
             {
                 throw new NullReferenceException();
             }
-            var categories = await _context.Categories.Where(n => !n.IsDeleted).ToListAsync();
+            var categories = await _categoryRepository.GetAll();
             ViewData["categories"] = categories;
             return View(data);
         }
@@ -94,50 +110,34 @@ namespace Floria.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Update(int? id,Product product)
+        public async Task<IActionResult> Update(int id,Product product)
         {
+            var categories = await _categoryRepository.GetAll();
+            ViewData["categories"] = categories;
+
+
             if (!ModelState.IsValid)
             {
                 return View(product);
             }
-            var dbProduct = await _context.Products.AsNoTracking().Where(n => !n.IsDeleted && n.Id == id).FirstOrDefaultAsync();
-            if (dbProduct is null)
-            {
-                throw new NullReferenceException("Product is null!");
-            }
-            var categories = await _context.Categories.Where(n => !n.IsDeleted).ToListAsync();
-            ViewData["categories"] = categories;
 
-            product.CreatedDate = dbProduct.CreatedDate;
-            product.UpdatedDate = DateTime.Now;
+            await _productRepository.Update(id, product);
 
-            _context.Products.Update(product);
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         public async Task<IActionResult> Delete(int? id)
         {
-            var data = await ValidateProduct(id);
-            
-            data.IsDeleted = true;
-            await _context.SaveChangesAsync();
-
+            try
+            {
+                await _productRepository.Delete(id);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+         
             return RedirectToAction(nameof(Index));
-        }
-
-        private async Task<Product> ValidateProduct(int? id)
-        {
-            if (id is null)
-            {
-                throw new ArgumentNullException("Id");
-            }
-            var data = await _context.Products.Where(n => !n.IsDeleted && n.Id == id).FirstOrDefaultAsync();
-            if (data is null)
-            {
-                throw new NullReferenceException();
-            }
-            return data;
         }
      
      
