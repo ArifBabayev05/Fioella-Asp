@@ -24,7 +24,7 @@ namespace Floria.Controllers
         // GET: /<controller>/
         public async Task<IActionResult> Index()
         {
-            var data = await _context.Products.Where(n => !n.IsDeleted)
+            var data = await _context.Categories.Where(n => !n.IsDeleted)
                                              .OrderByDescending(n=>n.CreatedDate)
                                              .Take(8)
                                              .Include(n => n.Image)
@@ -34,7 +34,7 @@ namespace Floria.Controllers
 
         public async Task<IActionResult> LoadMore(int page = 0)
         {
-            var data = await _context.Products.Where(n => !n.IsDeleted)
+            var data = await _context.Categories.Where(n => !n.IsDeleted)
                                              .OrderByDescending(n => n.CreatedDate)
                                              .Skip(page*8 )
                                              .Take(8)
@@ -47,7 +47,7 @@ namespace Floria.Controllers
         public async Task<int> GetPageCount()
         {
 
-            int dataCount= await _context.Products.CountAsync();
+            int dataCount= await _context.Categories.CountAsync();
             int pageCount = (int)Math.Ceiling((double)dataCount / 8);
             return pageCount;
         }

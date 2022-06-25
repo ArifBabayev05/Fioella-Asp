@@ -7,7 +7,7 @@ using DAL.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
 
 namespace Floria.Areas.Admin.Controllers
 {
@@ -112,10 +112,7 @@ namespace Floria.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        //public async Task<bool> IsDataExist(string name)
-        //{
-        //    return  await _context.Positions.AnyAsync(n => n.Name.Trim().ToLower() == name.Trim().ToLower());
-        //}
+        
+      
     }
 }
-
